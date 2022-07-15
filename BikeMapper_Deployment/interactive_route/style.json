@@ -1,0 +1,8 @@
+    {
+      "type": "line",
+      "paint": {
+        "line-width": 2,
+	"line-dasharray":[1, 1],
+        "line-color":["get", "color"] 
+      }
+    }
